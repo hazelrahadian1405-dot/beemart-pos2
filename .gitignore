@@ -1,0 +1,19 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+
+## Build output
+[Dd]ebug/
+[Rr]elease/
+publish/
+
+## Rider / VS Code
+.idea/
+.vscode/
+
+## macOS / misc
+.DS_Store
+*.log
